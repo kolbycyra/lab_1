@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html
+
+<head>
+    <title>Cosc 224</title>
+    <style>
+        header {
+            background-color: black;
+            color: white;
+            padding: 12px;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Cosc 224</h1>
+        <p>Kolby Cyra</p>
+    </header>
+	<h2>Lab 1</h2>
+	<p>Task --> create a web page with a header, footer, sidebar, etc...</p>
+</body>
+</html>
