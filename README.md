@@ -1,2 +1,1 @@
-# lab_1
-Lab 1, 5 branches, pull requests, and code merged onto main
+Task --> create a web page with a header, footer, sidebar, etc...
