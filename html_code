@@ -4,12 +4,22 @@
 <head>
     <title>Cosc 224</title>
     <style>
-        header {
+		header {
             background-color: black;
             color: white;
             padding: 12px;
             text-align: center;
-        }
+      	}
+		footer {
+            background-color: black;
+            color: white;
+            padding: 12px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+      	}
+		
     </style>
 </head>
 
@@ -18,7 +28,10 @@
         <h1>Cosc 224</h1>
         <p>Kolby Cyra</p>
     </header>
-	<h2>Lab 1</h2>
+  	<h2>Lab 1</h2>
 	<p>Task --> create a web page with a header, footer, sidebar, etc...</p>
+    <footer>
+        <p>Projects in Computer Science</p>
+    </footer>
 </body>
 </html>
