@@ -6,13 +6,13 @@
     <style>
 		header {
             background-color: black;
-            color: white;
+            color: lightblue;
             padding: 12px;
             text-align: center;
       	}
 		footer {
             background-color: black;
-            color: white;
+            color: lightblue;
             padding: 12px;
             text-align: center;
             position: fixed;
@@ -23,7 +23,8 @@
     </style>
 </head>
 
-<body>
+<body style="background-color: lightblue; color:purple; font-weight: bold">
+
     <header>
         <h1>Cosc 224</h1>
         <p>Kolby Cyra</p>
